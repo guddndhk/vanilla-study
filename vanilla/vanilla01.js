@@ -24,3 +24,5 @@ console.log(typeof testSymbol2, testSymbol2);
 console.log(testSymbol1 == testSymbol2);//false
 // === 데이터 타입 까지도 똑같니? 라고 물어보는거다.
 console.log(testSymbol1 === testSymbol2);//false
+
+
