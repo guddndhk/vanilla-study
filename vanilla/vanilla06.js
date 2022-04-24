@@ -14,4 +14,4 @@ const a = 3; // 상수가 된다. = 을 한번만 붙일수 있다고 생각하�
 const c = {name: 'proteinCake'}
 c.name = 'cakeProtein';
 
-let b = 3; // 변수가 된다.
+let b = 3; // 변수가 된다..
